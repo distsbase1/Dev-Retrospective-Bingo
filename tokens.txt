@@ -1,0 +1,2 @@
+# Planning
+Add pre-flight check to verify environment variables
